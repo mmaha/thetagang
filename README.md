@@ -83,7 +83,7 @@ If you find something that you think is a bug, or some other issue, please
 ## "Show me your gains bro" – i.e., what are the returns?
 
 As discussed elsewhere in this README, you must conduct your own research,
-and I suggest starting with resources such as CBOE's BXM and BXDM indices,
+and I suggest starting with resources such as CBOE's [BXM](https://www.cboe.com/us/indices/dashboard/BXM/) and [BXMD](https://www.cboe.com/us/indices/dashboard/BXMD/) indices,
 and comparing those to SPX. I've had a lot of people complain because "that
 strategy isn't better than buy and hold BRUH"–let me assure you, that is not
 my goal with this.
